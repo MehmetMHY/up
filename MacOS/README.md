@@ -1,4 +1,4 @@
-# up/MacOS/ README
+# README - up/MacOS/
 
 ## Support Package Managers:
 - Homebrew: https://brew.sh/
