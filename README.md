@@ -15,6 +15,6 @@
 		- Homebrew
 
 ## Requires:
-	- Unix Based System
-	- Shell (Bash or Zsh)
+- Unix Based System
+- Shell (Bash or Zsh)
 
