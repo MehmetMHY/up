@@ -7,7 +7,7 @@
 - Quick History:
 	- I started working on the "up" project back in 2019 when I was really getting into Linux. 
 	- Back in 2019, I hated running so many commands just to update/upgrade all my packages. So, locally, I started the up project.
-	- From 2019 to 2022, this project became more advance, cool, and useful. I started seeing how others might also see it as useful so I uploaded it to GitHub.
+	- From 2019 to 2022, this project became more advance, cool, and useful. I started seeing how others might also see it as useful. So, in 20222, I decided to push it to GitHub.
 
 ## Support On:
 - Ubuntu
