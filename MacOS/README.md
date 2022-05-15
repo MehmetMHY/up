@@ -4,6 +4,6 @@
 - Homebrew: https://brew.sh/
 
 ## About Dir(s):
-- Homebrew:
+- Homebrew/ :
 	- up.sh : does main update & upgrade commands for Homebrew package manager
 
